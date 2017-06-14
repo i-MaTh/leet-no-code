@@ -1,2 +1,1 @@
-# leet-no-code
 practice : )
